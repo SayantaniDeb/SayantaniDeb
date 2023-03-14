@@ -1,3 +1,4 @@
+<br clear="both">
 
 <h1 align="center">Hey, I am Sayantani !</h1>
 
@@ -37,9 +38,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/codewithshytan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitch&label=&color=9146FF&logoColor=&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
-  <a href="esoteric#3073" target="_blank">
+  <a href="discordapp.com/users/esoteric#3073" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCC0opS0KEhAYFbb2jtzyvHw" target="_blank">
