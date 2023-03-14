@@ -1,4 +1,3 @@
-<br clear="both">
 
 <h1 align="center">Hey, I am Sayantani !</h1>
 
