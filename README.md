@@ -1,66 +1,29 @@
-<br clear="both">
+# Sayantani's Profile
 
-<h1 align="center">Hey, I am Sayantani !</h1>
+- She/Her📍 Living in India
+- Aspiring software engineer
 
-###
+### About Me
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/eCSLYksOOnMNf7Klb3/giphy.gif"  />
-</div>
+- CSE Undergrad Junior. Student developer, community lead and aspiring Software Engineer.
+- General mails at [sayantani.1001@gmail.com](mailto:sayantani.1001@gmail.com)
 
-###
+### Work Experience
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=SayantaniDeb" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=SayantaniDeb" height="150" alt="languages graph"  />
-</div>
+- Former sioftware engineering intern at [Amazon](https://www.amazon.com/) (working on-site at Chennai, India)
+- Microsoft Engage mentee'22, [Microsoft](https://www.microsoft.com/en-in)
+- Contributed to a [social impact project](https://www.credly.com/badges/e2f30f42-7a40-497d-a365-a205fd9dfe3c/linked_in_profile) at Microsoft as a [student ambassador](https://mvp.microsoft.com/studentambassadors)
+- Worked as a Community lead at [Google Developer Student Club](https://developers.google.com/community/gdsc)
 
-###
+### Projects and Experiments
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" width="42" alt="bitbucket logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo"  />
-</div>
+- [TravellWithUs](https://travellwith02.netlify.app/) - A pocket friendly travel app, with route optimization toi weather forecast.
+- [GlobalHealthHub](https://global-health-hub.netlify.app/) -  a telemedicine app that unites and supports cultural diversity by providing patients with access to healthcare providers who are trained in cultural competency
+- [Creator Mate](https://creatormate.netlify.app/) -a website designed to help content creators with hashtag creation, content ideas, and collaboration.
+- [Harry Potter Website](https://sayantanideb.github.io/Harry-Potter/) - Designed to give a real time experience to the user playing the game as if it is inside the Hogwarts castle.
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sayantani-deb-035794200/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/codewithshytan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitch&label=&color=9146FF&logoColor=&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="discordapp.com/users/esoteric#3073" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCC0opS0KEhAYFbb2jtzyvHw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
-  <a href="Sayantani.1001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
-###
+### Socials
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SayantaniDeb/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Sayantaniwrites&theme=gruvbox_light" alt="Layout with last medium posts"  />
-</div>
-
-###
+[Twitter/codewithshytan](https://twitter.com/codewithshytan) &bullet; [LinkedIn/sayantaniDeb](https://www.linkedin.com/in/sayantani-deb-035794200/") &bullet; [Instagram/codewithshytan](https://www.instagram.com/sayantani.codes/") &bullet; [Website/codewithshytan.com](https://codewithshytan.netlify.app) 
