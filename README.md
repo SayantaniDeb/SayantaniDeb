@@ -5,7 +5,7 @@
 
 ### About Me
 
-- CSE Undergrad Junior. Student developer, community lead and aspiring Software Engineer.
+- Final Year CSE Undergrad. Student developer, community lead and aspiring Software Engineer.
 - General mails at [sayantani.1001@gmail.com](mailto:sayantani.1001@gmail.com)
 
 ### Work Experience
