@@ -1,7 +1,6 @@
 # Sayantani's Profile
-
-- She/Her📍 Living in India
-- Aspiring software engineer
+- she/her📍 Living in West Bengal, India
+- software engineer
 
 ### About Me
 
