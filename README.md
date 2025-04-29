@@ -10,7 +10,7 @@
 
 ### Work Experience
 
-- Currently working as a Developer Advocate at [QuickBlox](https://quickblox.com/)
+- Former Developer Advocate at [QuickBlox](https://quickblox.com/)
 - Former software engineering intern at [Amazon](https://www.amazon.com/) (working on-site at Chennai, India)
 - Microsoft Engage mentee'22, [Microsoft](https://www.microsoft.com/en-in)
 - Contributed to a [social impact project](https://www.credly.com/badges/e2f30f42-7a40-497d-a365-a205fd9dfe3c/linked_in_profile) at Microsoft as a [student ambassador](https://mvp.microsoft.com/studentambassadors)
